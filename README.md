@@ -1,6 +1,8 @@
 # sentiment-analysis-keras-lstm
 Classificação de sentimentos usando Keras e redes neurais recorrentes LSTM
 
+Este é o código que foi apresentado no vídeo: https://youtu.be/bIcadBu--u8
+
 Você vai precisar dos seguintes pacotes instalados:
 
 * tensorflow >= 1.8.0
