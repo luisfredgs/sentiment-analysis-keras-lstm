@@ -1,7 +1,7 @@
 # sentiment-analysis-keras-lstm
 Classificação de sentimentos usando Keras e redes neurais recorrentes LSTM
 
-Este é o código que foi apresentado no vídeo: https://youtu.be/bIcadBu--u8
+Este é o código que foi apresentado durante o vídeo: https://youtu.be/bIcadBu--u8
 
 ## Dependências
 
